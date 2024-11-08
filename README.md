@@ -1,4 +1,4 @@
-# State management - Steps App
+# State management - Date Counter
 
 This project builds a steps app.
 
